@@ -70,11 +70,27 @@ body{
   width:440px;
   height:400px;
   color:#333;
-  font-size:12px
+  font-size:14px
 }
 
 #code .string{
   color:#2a36ff
+}
+#code .bold-red-string {
+  color:#aa3333; 
+  font-weight:bold;
+}
+#code .bold-green-string {
+  color: #508050;
+  font-weight: bold;
+}
+#code .print {
+  color: #1aefd6;
+}
+#code .hpbd {
+  color: #ffffee;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 #code .keyword{
